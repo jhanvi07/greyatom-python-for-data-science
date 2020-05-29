@@ -24,10 +24,10 @@ print(new_class)
 Geoffrey_Hinton= {}
 
 
-# Slice the dict and stores  the all subjects marks in variable
+# Slice the dict and stores all the course marks in variable
 courses= {'Math':'65','English':'70','History':'80','French':'70','Science':'60'}
 
-# Store the all the subject in one variable `Total`
+# Store all the course marks in one variable `Total`
 total=65+70+80+70+60
 # Print the total
 print(total)
