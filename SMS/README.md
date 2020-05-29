@@ -15,6 +15,5 @@
 
 ### Challenges faced
 
- I had a challenge in the last step which was to figure out splitting the topper student name into firstname and lastname. It was because originally it was in a string format and I had to split and store it into a list. I kept getting concatenation error but I figured out the solution soon.
-
+ I had a challenge in the last step which was to figure out splitting the topper student name into firstname and lastname. It was because originally it was in a string format and I had to split and store it into a list. I kept getting concatenation error because I was coverting list to a string. I figured out the error and ran the code.
 
